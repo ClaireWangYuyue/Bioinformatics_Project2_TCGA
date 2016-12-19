@@ -1,0 +1,2 @@
+id	filename	md5	size	state
+5b986092-b46d-44ee-9fee-bfd474920168	5b986092-b46d-44ee-9fee-bfd474920168/00106523-5b1d-44ad-a9f1-7d84db08722c.FPKM-UQ.txt.gz	d9363cbe71269fb52182fb3ceccda237	516160	submitted

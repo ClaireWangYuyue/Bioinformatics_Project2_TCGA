@@ -1,0 +1,2 @@
+id	filename	md5	size	state
+b4803332-4f6f-4fb8-87c9-1e3da4c76cce	b4803332-4f6f-4fb8-87c9-1e3da4c76cce/00106523-5b1d-44ad-a9f1-7d84db08722c.FPKM.txt.gz	07e0d2b39d0f66728fb19450373e260b	513982	submitted
